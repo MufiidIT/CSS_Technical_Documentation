@@ -60,29 +60,3 @@ body{
     padding: 10px;
     float: right;
 }
-
-/* mobile view */
-
-/* @media (max-width:500px) { */
-
-    /* #navbar{
-        width: 100%;
-        position: absolute;
-        top: 0.5em;
-        flex-direction: column; */
-        /* margin: 0 auto; */
-        /* display: flex;
-        align-content: flex-start;
-        justify-content: flex-start;
-        margin-left: 0.09em;
-        text-align: center;
-    } */
-    /* #main-doc{
-        margin-top: 32em;
-        float: none;
-        display: flex;
-        flex-direction: column;
-        justify-items: center;
-        align-items: center;
-    } */
-/* } */
